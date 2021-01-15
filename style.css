@@ -1,22 +1,24 @@
 body {
-    background: #5cb1ca;
+    background: #fefefe;
 }
 
 .mainHeader {
-    color: rgb(250, 80, 50);
-    font-size: 42px;
+    color: #751da8
+    
 }
 
-.sectionHeader {
-    color: #cec331;
-    font-size: 35px
+.sectionHeader, .diaryHeader{
+    color: #0e7ab1;
+ 
 }
 
-.article {
+.paragraph {
     color: #224b12;
-    font-size: 24px;
+    
 }
 
 h3 {
     color: #0e0ba8;
 }
+
+.links {color: #52b788}
